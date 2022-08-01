@@ -1,0 +1,32 @@
+.menu {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px;
+}
+
+.list {
+    width: 150px;
+    background-color: #2638e0;
+    color: white;
+    position: fixed;
+    left: 0;
+    display: inline-block;
+    height: 400px;
+    padding-left: 10px;
+    top: 140px;
+    overflow-x: hidden;
+}
+
+
+.feedback {
+    color: gray;
+    font-size: 20px;
+}
+
+.ui {
+    font-size: 25px;
+    font-weight: bold;
+    font-style: unset;
+    color: gray;
+}

@@ -1,0 +1,20 @@
+.footer {
+    background-color: #2638e0;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+}
+
+.devby {
+    text-align: right;
+    display: inline-block;
+    width: 71%;
+}
+
+.copy {
+    color: white;
+}
+
+.dev {
+    color: #c4257d
+}

@@ -1,0 +1,19 @@
+.code {
+    width: 25%;
+    height: 200px;
+    border: 1px solid #a8b810;
+    display: inline-block;
+    font-size: 30px;
+    font-weight: bold;
+
+    text-align: center;
+    line-height: 200px;
+    box-shadow: 2px 2px rgb(118, 138, 30);
+    margin-bottom: 10px;
+
+}
+
+.home {
+    display: inline-block;
+    margin-left: 165px;
+}
